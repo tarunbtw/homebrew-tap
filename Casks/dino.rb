@@ -1,6 +1,6 @@
 cask "dino" do
-  version "0.50"
-  sha256 "0f58661e097eb7f19d5cb1cb08468ea9c13b5a801f86ac724f15d483f0682051"
+  version "0.51"
+  sha256 "d8748e9c5b4eb5b0778f52376fcef77727d5115d124852bde89c28564e51a8be"
 
   url "https://github.com/tarunbtw/dino/releases/download/v#{version}/Dino-#{version}.zip"
   name "Dino"
